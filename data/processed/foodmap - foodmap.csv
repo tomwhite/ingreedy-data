@@ -1,0 +1,1081 @@
+normalized_name,counts,food,notes,food_au,notes_au
+garlic,1802,"Garlic, raw",,"Garlic, peeled, fresh, raw",
+onion,1794,"Onions, raw",,"Onion, mature, brown skinned, peeled, raw",
+tomato,1489,"Tomatoes, standard, raw",,"Tomato, common, raw",
+carrot,1011,"Carrots, old, raw",,"Carrot, mature, peeled, fresh, raw",
+unsalted butter,975,"Butter, unsalted",,"Butter, plain, no added salt",
+butter,955,"Butter, unsalted",,"Butter, plain, no added salt",
+sugar,859,"Sugar, white",,"Sugar, white, granulated or lump",
+salt,795,Salt,,"Salt, table, non-iodised",
+scallion,788,"Spring onions, bulbs and tops, raw",,"Onion, spring, fresh, raw",
+olive oil,787,"Oil, olive",,"Oil, olive",
+potato,776,"Potatoes, old, raw, flesh only",,"Potato, pale skin, peeled, raw",
+egg,727,"Eggs, chicken, whole, raw",,"Egg, chicken, whole, raw",
+parsley,711,"Parsley, fresh",,"Parsley, continental, fresh, raw",
+ginger,649,"Ginger, fresh",,"Ginger, peeled, fresh, raw",
+lemon,595,"Lemons, peeled, flesh only",,"Lemon, peeled, raw",
+water,550,"Water, distilled",,"Water, tap",
+mushroom,532,"Mushrooms, white, raw",,"Mushroom, common, fresh, raw",
+shallot,520,"Shallots, raw",,"Shallot, peeled, fresh, raw",
+flour,477,"Flour, wheat, white, plain, soft",,"Flour, wheat, white, plain",
+all purpose flour,476,"Flour, wheat, white, plain, soft",,"Flour, wheat, white, plain",
+thyme,470,"Thyme, fresh",,,missing
+leek,467,"Leeks, raw",,"Leek, fresh, raw",
+celery,442,"Celery, raw",,"Celery, fresh, raw",
+extra virgin olive oil,430,"Oil, olive",,"Oil, olive",
+cilantro,407,"Coriander leaves, fresh",,"Coriander, fresh, leaves & stems",
+shrimp,407,"Prawns, king, raw",,"Prawn, flesh, raw (green)",
+chicken,390,"Chicken, meat, average, raw",,"Chicken, breast, lean flesh, raw",
+milk,389,"Milk, semi-skimmed, pasteurised, average",,"Milk, cow, fluid, regular fat (3.5% fat)",
+lemon juice,387,"Lemon juice, fresh",,"Juice, lemon",
+basil,374,"Basil, fresh",,"Basil, green, raw",
+chicken stock,369,"Stock, chicken, ready made, retail",,,missing
+oil,368,"Oil, vegetable, average",,"Oil, vegetable",
+basil leaf,348,"Basil, fresh",,"Basil, green, raw",
+apple,340,"Apples, eating, raw, flesh and skin",,"Apple, granny-smith, unpeeled, raw",
+red onion,329,"Onions, raw",,"Onion, mature, brown skinned, peeled, raw",
+almond,326,,missing,"Nut, almond, with skin, raw, unsalted",
+black pepper,323,"Pepper, black",,"Pepper, black, ground",
+zucchini,319,"Courgette, raw",,"Zucchini, green skin, fresh, unpeeled, raw",
+plum tomato,317,"Tomatoes, standard, raw",,"Tomato, common, raw",
+rosemary,310,"Rosemary, fresh",,"Rosemary, fresh, raw",
+red bell pepper,299,"Pepper, capsicum, red, raw",,"Capsicum, red, fresh, raw",
+bacon,296,"Bacon rashers, streaky, raw",,"Bacon, middle rasher, untrimmed, raw",
+orange,290,"Oranges, flesh only",,"Orange, peeled, raw",
+chicken broth,284,"Stock, chicken, ready made, retail",broth is very similar to stock,,missing
+cucumber,275,"Cucumber, raw, flesh and skin",,"Cucumber, common, unpeeled, raw",
+bread crumb,272,,missing,"Breadcrumbs, white",
+bread,266,"Bread, white, premium",,"Bread, from white flour",
+lime,264,"Limes, flesh only",,"Lime, peeled, raw",
+red pepper,264,"Pepper, capsicum, red, raw",,"Capsicum, red, fresh, raw",
+kosher salt,257,Salt,,"Salt, table, non-iodised",
+chive,256,"Chives, fresh",,"Chives, raw",
+mint,253,"Mint, fresh",,"Mint, fresh, raw",
+garlic clove,252,"Garlic, raw",,"Garlic, peeled, fresh, raw",
+vegetable oil,246,"Oil, vegetable, average",,"Oil, vegetable",
+heavy cream,246,"Cream, fresh, double, including Jersey cream",,"Cream, thickened, regular fat (approximately 35%)",
+walnut,240,"Walnuts, kernel only",,"Nut, walnut, raw, unsalted",
+chicken breast,239,"Chicken, meat, average, raw",,"Chicken, breast, lean flesh, raw",
+eggplant,234,"Aubergine, raw",add UK terms too!,"Eggplant, unpeeled, fresh, raw",
+pepper,229,"Pepper, capsicum, red, raw",,"Capsicum, red, fresh, raw",
+rice,227,"Rice, white, basmati, raw",,"Rice, white, uncooked",
+soy sauce,225,"Soy sauce, light and dark varieties",,"Sauce, soy, commercial",
+cinnamon,222,"Cinnamon, ground",,"Cinnamon, dried, ground",
+spinach,222,"Spinach, mature, raw",,"Spinach, Mature English, fresh, raw",
+lime juice,220,"Lime juice, fresh",,"Juice, lime",
+mint leaf,216,"Mint, fresh",,"Mint, fresh, raw",
+stock,211,"Stock, chicken, ready made, retail",,,missing
+brown sugar,201,"Sugar, brown",,"Sugar, brown",
+parmesan cheese,200,"Cheese, Parmesan, fresh",,"Cheese, parmesan, fresh",
+fennel,198,"Fennel, Florence, raw",,"Fennel, fresh, raw",
+red pepper flake,196,,missing,,missing
+dill,194,"Dill, fresh",,"Dill, fresh, raw",
+parmesan,185,"Cheese, Parmesan, fresh",,"Cheese, parmesan, fresh",
+chocolate,183,"Chocolate, plain",,"Chocolate, dark, high cocoa solids",
+caper,177,,missing,"Capers, pickled, canned, drained",
+anchovy,175,"Anchovies, canned in oil, drained",,"Anchovy, canned in oil, drained",
+jalapeno pepper,174,,missing,"Chilli (chili), red, raw",
+coriander,173,"Coriander leaves, fresh",,"Coriander, fresh, leaves & stems",
+yogurt,172,"Yogurt, low fat, plain",,,missing
+beef,168,"Beef, braising steak, raw, lean and fat",,"Beef, diced, lean, raw",
+oregano,167,"Oregano, fresh",,"Oregano, dried",
+confectioner sugar,165,"Sugar, icing",,"Sugar, white, icing",
+corn,163,"Sweetcorn, kernels, raw",,"Corn, kernels, canned in brine, drained",
+salmon,162,"Salmon, farmed, flesh only, raw",,"Salmon, Atlantic, fillet, raw",
+tarragon,162,"Tarragon, fresh",,,missing
+asparagus,161,"Asparagus, raw",,"Asparagus, green, raw",
+sage,160,"Sage, fresh",,,missing
+jalapeno,159,,missing,,missing
+strawberry,159,"Strawberries, raw",,"Strawberry, raw",
+celery rib,157,"Celery, raw",,"Celery, fresh, raw",
+pork,156,"Pork, fillet, raw, lean and fat",,"Pork, diced, untrimmed, raw",
+cheese,155,"Cheese, white, average",,"Cheese, cheddar, natural, regular fat",
+nutmeg,155,"Nutmeg, ground",,"Nutmeg, dried, ground",
+pea,154,"Peas, raw",,"Pea, green, fresh, raw",
+honey,153,Honey,,Honey,
+green pepper,153,"Peppers, capsicum, green, raw",,"Capsicum, green, fresh, raw",
+olive,147,"Olives, green, in brine, drained, flesh and skin",,"Olive, green or black, drained",
+pecan,146,"Pecan nuts, kernel only",,"Nut, pecan, raw, unsalted",
+cabbage,143,"Cabbage, average, raw",,"Cabbage, white, raw",
+creme fraiche,141,"Creme fraiche, full fat",,,missing
+parsley leaf,140,"Parsley, fresh",,"Parsley, continental, fresh, raw",
+avocado,139,"Avocado, average, flesh only",,"Avocado, raw",
+thyme leaf,138,"Thyme, fresh",,,missing
+coriander seed,138,Coriander seeds,,"Coriander seed, dried, ground",
+beet,136,"Beetroot, raw",,"Beetroot, fresh, purple, peeled, raw",
+white onion,136,"Onions, raw",,"Onion, mature, white skinned, peeled, fresh, raw",
+mustard,134,"Mustard, wholegrain",,,missing
+lamb,134,"Lamb, lean only, raw, average",,"Lamb, all cuts, separable fat, raw",
+bean,133,,too vague,,too vague
+bay leaf,133,"Bay leaf, dried",,,missing
+pear,133,"Pears, raw, flesh and skin",,"Pear, green skin, unpeeled, raw",
+dry white wine,133,"Wine, white, dry",,"Wine, white",
+peanut oil,131,"Oil, peanut (groundnut)",,"Oil, peanut",
+red wine vinegar,130,,missing,,missing
+sea salt,129,Salt,,"Salt, table, non-iodised",
+vinegar,128,Vinegar,,Vinegar (except balsamic vinegar),
+goat cheese,127,"Cheese, goats milk, full fat, soft, white rind",,"Cheese, goat, soft",
+cilantro leaf,127,"Coriander leaves, fresh",,"Coriander, fresh, leaves & stems",
+cumin seed,127,Cumin seeds,,"Cumin (cummin) seed, dried, ground",
+mussel,126,"Mussels, raw",,"Mussel, blue, steamed",
+cornstarch,123,,missing,"Flour, cornflour, from maize starch",
+sour cream,122,,missing,"Cream, sour, regular fat",
+orange juice,122,"Orange juice, freshly squeezed",,"Juice, orange, commercial",
+arugula,121,"Rocket, raw",,"Rocket, fresh, raw",
+sesame oil,118,"Oil, sesame",,,missing
+sweet potato,117,"Sweet potato, raw, flesh only",,"Sweet potato, orange flesh, peeled, fresh, raw",
+turnip,117,"Turnip, flesh only, raw",,"Turnip, white, peeled, fresh, raw",
+vanilla bean,116,,missing,"Vanilla, artificial or imitation",same?
+buttermilk,115,,,,missing
+butternut squash,115,"Squash, butternut, raw",,"Pumpkin, butternut, peeled, fresh, raw",
+cornmeal,115,"Polenta, hydrated, raw",,"Cornmeal (polenta), uncooked",
+shiitake mushroom,113,,missing,,missing
+mayonnaise,111,"Mayonnaise, standard, retail",,"Mayonnaise, traditional (greater than 70% fat), commercial",
+sage leaf,110,"Sage, fresh",,,missing
+black olive,110,,missing,"Olive, green or black, drained",
+watercress,110,"Watercress, raw",,"Watercress, raw",
+paprika,109,Paprika,,"Paprika, dry powder",
+green bell pepper,109,"Peppers, capsicum, green, raw",,"Capsicum, green, fresh, raw",
+white wine,109,"Wine, white, medium",,"Wine, white",
+clove,109,"Cloves, dried",,"Cloves, dried, ground",
+cauliflower,107,"Cauliflower, raw",,"Cauliflower, fresh, raw",
+raisin,106,Raisins,,Raisin,
+salt and pepper,105,Salt,treat as salt,"Salt, table, non-iodised",
+yellow onion,105,"Onions, raw",,"Onion, mature, brown skinned, peeled, raw",
+black peppercorn,104,"Pepper, black",,"Pepper, black, ground",
+canola oil,104,,missing,"Oil, canola",
+sesame seed,102,Sesame seeds,,,missing
+granulated sugar,102,"Sugar, white",,"Sugar, white, granulated or lump",
+cayenne,101,"Pepper, cayenne, ground",,,missing
+radish,100,"Radish, red, raw, flesh and skin",,"Radish, red skinned, unpeeled, raw",
+cayenne pepper,100,"Pepper, cayenne, ground",,,missing
+cherry tomato,99,"Tomatoes, cherry, raw",,"Tomato, cherry, raw",
+sherry vinegar,98,,missing,,missing
+tuna,98,"Tuna, canned in sunflower oil, drained",,"Tuna, canned in brine, drained",
+chickpea,98,"Beans, chick peas, canned, re-heated, drained",,"Chickpea, canned, drained",
+hazelnut,97,"Hazelnuts, kernel only",,"Nut, hazelnut, raw, unsalted",
+parmigiano reggiano,97,"Cheese, Parmesan, fresh",,"Cheese, parmesan, fresh",
+whole wheat flour,97,"Flour, wheat, wholemeal",,"Flour, wheat, wholemeal, plain",
+fish sauce,97,,missing,"Sauce, fish, commercial",
+prosciutto,97,,missing,Prosciutto,
+italian parsley,96,"Parsley, fresh",,"Parsley, continental, fresh, raw",
+baking powder,96,Baking powder,,"Baking powder, dry powder",
+cranberry,95,Cranberries,,"Cranberry, raw",
+corn kernel,95,,missing,"Corn, kernels, canned in brine, drained",
+turkey,95,"Turkey, meat, average, raw",,"Turkey, breast, lean flesh, raw",
+pine nut,94,"Pine nuts, kernel only",,"Nut, pine, raw, unsalted",
+chicken thigh,94,"Chicken, leg quarter, raw, meat and skin",,"Chicken, thigh, lean flesh, raw",
+dijon mustard,93,"Mustard, smooth",,,missing
+red wine,93,"Wine, red",,"Wine, red",
+horseradish,93,"Horseradish, raw",,,missing
+green bean,92,"Beans, green, raw",,"Bean, green, fresh, raw",
+parsnip,92,"Parsnip, raw",,"Parsnip, peeled, fresh, raw",
+ham,92,Ham,,"Ham, leg, lean",
+apricot,91,"Apricots, raw, flesh and skin",,"Apricot, raw",
+peppercorn,91,"Pepper, black",,"Pepper, black, ground",
+mango,90,"Mangoes, ripe, raw, flesh only",,"Mango, peeled, raw",
+fennel bulb,89,"Fennel, Florence, raw",,"Fennel, fresh, raw",
+bell pepper,89,"Pepper, capsicum, red, raw",,"Capsicum, red, fresh, raw",
+herb,89,,too vague,,too vague
+celery root,88,"Celery, raw",,"Celery, fresh, raw",
+pancetta,88,,missing,,missing
+raspberry,88,"Raspberries, raw",,"Raspberry, raw",
+flat leaf parsley,87,"Parsley, fresh",,"Parsley, continental, fresh, raw",
+whole milk,87,"Milk, whole, pasteurised, average",,"Milk, cow, fluid, regular fat (3.5% fat)",
+broccoli,86,"Broccoli, green, raw",,"Broccoli, fresh, raw",
+coriander leaf,85,"Coriander leaves, fresh",,"Coriander, fresh, leaves & stems",
+balsamic vinegar,85,,missing,,missing
+pasta,85,"Pasta, white, dried, raw",,"Pasta, white wheat flour, dry",
+pineapple,85,"Pineapple, raw, flesh only",,"Pineapple (cayenne), peeled, raw",
+light brown sugar,84,"Sugar, brown",,"Sugar, brown",
+coconut milk,84,Coconut milk,,"Coconut, milk, canned, regular fat",
+cherry,84,"Cherries, flesh and skin, raw",,"Cherry, raw",
+sausage,83,"Sausages, pork, raw",,"Sausage, beef, raw",
+bouquet garni,83,,missing,,missing
+cream cheese,83,,missing,"Cheese, cream, plain",
+vanilla extract,83,,missing,Vanilla bean extract,
+saffron,83,Saffron,,,missing
+banana,83,"Bananas, flesh only",,"Banana, cavendish, peeled, raw",
+rhubarb,82,"Rhubarb, stems only, raw",,"Rhubarb, stalk, raw",
+lemon grass,81,,missing,,missing
+squid,81,"Squid, raw",,"Squid or calamari, raw",
+baking soda,81,Bicarbonate of soda,,"Baking soda (bicarbonate), dry powder",
+gruyere cheese,80,"Cheese, Gruyere",,,missing
+tomato paste,80,Tomato puree,,"Tomato, puree, commercial",
+peanut,80,"Peanuts, kernel only, plain, unsalted",,"Nut, peanut, with skin, raw, unsalted",
+lettuce,80,"Lettuce, average, raw",,"Lettuce, iceberg, raw",
+coconut,80,"Coconut, flesh only, fresh",,"Coconut, fresh, mature fruit, flesh",
+peach,79,"Peaches, raw, flesh and skin",,"Peach, yellow, unpeeled, raw",
+fish stock,79,,missing,,missing
+fine sea salt,78,Salt,,"Salt, table, non-iodised",
+white wine vinegar,78,,missing,,missing
+salt and black pepper,77,Salt,treat as salt,"Salt, table, non-iodised",
+fennel seed,77,Fennel seeds,,,missing
+cheddar cheese,76,"Cheese, Cheddar, English",,"Cheese, cheddar, natural, regular fat",
+black bean,76,,missing,,missing
+neutral oil,76,"Oil, vegetable, average",,"Oil, blend of polyunsaturated vegetable oils",
+chili powder,75,Chilli powder,,"Chilli (chili), dried, ground",
+maple syrup,75,,missing,"Syrup, maple, pure",
+lobster,75,,missing,"Lobster, southern rock, wild, flesh, raw",
+vegetable stock,75,,missing,,missing
+sea scallop,75,,missing,"Scallop, raw",
+oyster,73,"Oysters, raw",,"Oyster, native, aquacultured, raw",
+chervil,73,"Chervil, dried",,,missing
+ricotta,73,"Cheese, Ricotta",,"Cheese, ricotta",
+white pepper,72,"Pepper, white",,,missing
+blueberry,72,Blueberries,,"Blueberry, raw",
+corn oil,72,"Oil, corn",,,missing
+cake flour,72,"Flour, wheat, white, plain, soft",cake flour is similar to plain flour (but not identical),"Flour, wheat, white, plain",
+brussels sprout,72,"Brussels sprouts, raw",,"Brussels sprout, fresh, raw",
+cumin,71,Cumin seeds,,"Cumin (cummin) seed, dried, ground",
+duck,70,"Duck, meat only, raw",,"Duck, lean flesh, raw",
+pumpkin,70,"Pumpkin, flesh only, raw",,"Pumpkin, peeled, fresh, raw",
+lemon zest,70,,missing,"Lemon peel, raw",
+dark brown sugar,70,"Sugar, brown",,"Sugar, brown",
+mozzarella,69,"Cheese, Mozzarella, fresh",,"Cheese, mozzarella",
+white bread,69,"Bread, white, average",,"Bread, from white flour",
+pistachio,69,"Pistachio nuts, kernel only, roasted and salted",,"Nut, pistachio, raw, unsalted",
+ginger root,69,"Ginger, fresh",,"Ginger, peeled, fresh, raw",
+fig,68,"Figs, whole green fruit, raw",,"Fig, fresh, unpeeled, raw",
+prune,67,"Prunes, flesh and skin",,Prune (dried plum),
+rosemary leaf,67,"Rosemary, fresh",,"Rosemary, fresh, raw",
+brandy,67,,missing,"Alcoholic beverage, spirit, approximately 40% v/v, all (Brandy, Gin, Rum, Vodka and Whisky)",
+chili pepper,67,"Peppers, capsicum, chilli, red, raw",,"Capsicum, red, fresh, raw",
+tofu,67,,missing,"Tofu (soy bean curd), firm, as purchased",
+gelatin,67,Gelatine,,"Gelatine, all types",
+fresh thyme,66,"Thyme, fresh",,,missing
+salmon fillet,66,"Salmon, wild, flesh only, raw",,"Salmon, Atlantic, fillet, raw",
+artichoke,65,"Artichoke, globe, raw",,"Artichoke, globe, raw",
+bittersweet chocolate,64,,missing,"Chocolate, dark, high cocoa solids",
+sweet red pepper,64,"Pepper, capsicum, red, raw",,"Capsicum, red, fresh, raw",
+swiss chard,64,"Chard, Swiss, raw",,,missing
+anchovy fillet,63,"Anchovies, canned in oil, drained",,"Anchovy, canned in oil, drained",
+allspice,63,"Allspice, ground",,,missing
+egg yolk,62,"Eggs, chicken, yolk, raw",,"Egg, chicken, yolk, raw",
+marjoram,62,"Marjoram, dried",,,missing
+cognac,62,,missing,,missing
+baguette,62,"Bread, white, French stick",,,missing
+kale,62,"Curly kale, raw",,"Kale, raw",
+feta cheese,61,"Cheese, Feta",,"Cheese, fetta (feta)",
+chilies,61,"Peppers, capsicum, chilli, red, raw",,"Capsicum, red, fresh, raw",
+turmeric,61,"Turmeric, ground",,"Turmeric, dried, ground",
+cream,61,"Cream, fresh, single",,,missing
+clam,60,,missing,,missing
+cocoa powder,60,Cocoa powder,,Cocoa powder,
+bourbon,60,,missing,,missing
+yeast,60,"Yeast, dried",,"Yeast, dry powder",
+egg white,60,"Eggs, chicken, white, raw",,"Egg, chicken, white (albumen), raw",
+dry red wine,59,"Wine, red",,"Wine, red",
+rice vinegar,59,,missing,,missing
+broth,59,"Stock, chicken, ready made, retail",broth is very similar to stock,,missing
+cinnamon stick,58,,missing,,missing
+curry powder,58,Curry powder,,Curry powder,
+radicchio,58,"Raddiccio, raw",,,missing
+orange peel,58,,missing,,missing
+leg of lamb,58,"Lamb, lean only, raw, average",,"Lamb, roasting piece, leg or mini roast, lean, raw",
+endive,57,"Endive, raw",,"Endive, fresh, raw",
+fresh lemon juice,57,"Lemon juice, fresh",,"Juice, lemon",
+veal,57,"Veal, escalope, raw",,"Veal, all cuts, separable fat, raw",
+fish,56,,too vague,,too vague
+date,56,"Dates, raw, flesh and skin",,"Date, dried",ok?
+tart apple,56,"Apples, cooking, raw, flesh only, peeled",,"Apple, granny-smith, unpeeled, raw",
+fava bean,55,"Beans, broad, whole, raw",,"Bean, broad, fresh, raw",
+scallop,55,,missing,"Scallop, raw",
+orange zest,54,,missing,,missing
+crab meat,54,"Crab, white meat, purchased cooked",,"Crab, flesh, purchased steamed or boiled",
+white vinegar,54,,missing,,missing
+whipped cream,54,"Cream, fresh, whipping",,,missing
+chestnut,53,"Chestnuts, kernel only, raw",,"Nut, chestnut, raw, unsalted",
+yellow bell pepper,53,"Pepper, capsicum, yellow, raw",,,missing
+lentil,53,"Lentils, green and brown, whole, dried, raw",,"Lentil, hulled, dry",
+tomato sauce,53,"Tomato sauce, homemade",,"Sauce, tomato, commercial",
+beef broth,53,,missing,,missing
+worcestershire sauce,53,Worcestershire sauce,,"Sauce, Worcestershire, commercial",
+grapeseed oil,53,"Oil, grapeseed",,"Oil, grapeseed",
+tarragon leaf,52,"Tarragon, fresh",,,missing
+spinach leaf,52,"Spinach, mature, raw",,"Spinach, Mature English, fresh, raw",
+tomato puree,52,Tomato puree,,"Tomato, puree, commercial",
+white rice,52,"Rice, white, long grain, raw",,"Rice, white, uncooked",
+gin,52,,missing,"Alcoholic beverage, spirit, approximately 40% v/v, all (Brandy, Gin, Rum, Vodka and Whisky)",
+pork shoulder,52,"Pork, hand, shoulder joint, raw, lean",,"Pork, strips, untrimmed, raw",
+apple cider,52,"Cider, sweet",,"Cider, apple (alcohol approximately 4-5% v/v)",
+dry yeast,51,"Yeast, dried",,"Yeast, dry powder",
+red potato,51,,missing,"Potato, red skin, peeled, raw",
+beef stock,51,,missing,,missing
+green,51,,too vague,,too vague
+lard,51,Lard,,,missing
+green olive,51,"Olives, green, in brine, drained, flesh and skin",,"Olive, green or black, drained",
+mirin,50,,missing,,missing
+dark rum,50,,missing,"Alcoholic beverage, spirit, approximately 40% v/v, all (Brandy, Gin, Rum, Vodka and Whisky)",
+vodka,50,,missing,"Alcoholic beverage, spirit, approximately 40% v/v, all (Brandy, Gin, Rum, Vodka and Whisky)",
+lemon peel,49,,missing,"Lemon peel, raw",
+unbleached all purpose flour,49,"Flour, wheat, white, plain, soft",,"Flour, wheat, white, plain",
+chili,49,"Peppers, capsicum, chilli, red, raw",,"Capsicum, red, fresh, raw",
+golden raisin,49,Raisins,,Raisin,
+rice wine vinegar,49,,missing,,missing
+plum,49,"Plums, average, raw, flesh and skin",,"Plum, unpeeled, raw",
+cider vinegar,49,,missing,,missing
+dry sherry,49,,missing,"Wine, fortified, sherry, dry style (approximately 1% sugars)",
+fresh ginger,48,"Ginger, fresh",,"Ginger, peeled, fresh, raw",
+country bread,48,"Bread, white, farmhouse or split tin",,"Bread, from white flour",
+caraway seed,48,Caraway seeds,,,missing
+rum,48,,missing,"Alcoholic beverage, spirit, approximately 40% v/v, all (Brandy, Gin, Rum, Vodka and Whisky)",
+tabasco sauce,48,,missing,"Sauce, tabasco, commercial",
+currant,48,Currants,,"Currant, dried",
+half and half,48,"Cream, half, fresh",,,missing
+ricotta cheese,47,"Cheese, Ricotta",,"Cheese, ricotta",
+hot sauce,46,,missing,,missing
+gruyere,46,"Cheese, Gruyere",,,missing
+serrano chile,46,,missing,,missing
+tomatillo,46,,missing,,missing
+baby carrot,45,"Carrots, young, raw",,"Carrot, baby, peeled, fresh, raw",
+walnut oil,45,"Oil, walnut",,,missing
+plain yogurt,45,"Yogurt, whole milk, plain",,"Yoghurt, natural, regular fat (3% fat)",
+granny smith apple,45,"Apples, eating, raw, flesh and skin",,"Apple, granny-smith, unpeeled, raw",
+star anise,45,,missing,,missing
+artichoke heart,45,,missing,"Artichoke heart, canned in brine, drained",
+green onion,45,,missing,"Onion, mature, brown skinned, peeled, raw",
+romaine lettuce,44,"Lettuce, average, raw",,"Lettuce, cos, raw",
+morel,44,,missing,,missing
+broccoli rabe,44,,missing,,missing
+yukon gold potato,44,,missing,,missing
+couscous,44,"Couscous, plain, raw",,"Couscous, uncooked",
+fresh parsley,43,"Parsley, fresh",,"Parsley, continental, fresh, raw",
+chicken liver,43,"Liver, chicken, raw",,"Chicken, liver, raw",
+russet potato,43,,missing,"Potato, red skin, peeled, raw",
+pumpkin puree,43,,missing,,missing
+mustard seed,43,Mustard seeds,,,missing
+turkey breast,43,"Turkey, light meat, raw",,"Turkey, breast, lean flesh, raw",
+lemongrass,43,,missing,,missing
+parmigiano reggiano cheese,42,"Cheese, Parmesan, fresh",,"Cheese, parmesan, fresh",
+ground cinnamon,42,"Cinnamon, ground",,"Cinnamon, dried, ground",
+low fat milk,42,"Milk, 1% fat, pasteurised",low fat = 1%,"Milk, cow, fluid, reduced fat (1% fat)",
+feta,42,"Cheese, Feta",,"Cheese, fetta (feta)",
+sun dried tomato,42,,missing,"Tomato, sundried",
+corn tortilla,42,"Tortilla, wheat, soft",,,missing
+red chili pepper,42,"Peppers, capsicum, chilli, red, raw",,"Capsicum, red, fresh, raw",
+vegetable broth,41,,missing,,missing
+tabasco,41,,missing,"Sauce, tabasco, commercial",
+watermelon,41,"Melon, watermelon, flesh only",,"Melon, watermelon, peeled, raw",
+pork loin,41,"Pork, loin chops, raw, lean and fat",,"Pork, loin chop, lean, raw",
+blackberry,41,"Blackberries, raw",,"Blackberry, raw",
+white bean,41,,missing,"Bean, haricot, dried, boiled, drained",
+active dry yeast,41,"Yeast, dried",,"Yeast, dry powder",
+cod,41,"Cod, flesh only, raw",,,missing
+sweet butter,41,"Butter, unsalted",,"Butter, plain, no added salt",
+brown rice,41,"Rice, brown, easy cook, raw",,"Rice, brown, uncooked",
+chopped cilantro,40,"Coriander leaves, fresh",,"Coriander, fresh, leaves & stems",
+berry,40,,too vague,,too vague
+corn syrup,40,"Syrup, corn, dark",,,missing
+mild honey,40,Honey,,Honey,
+cardamom,40,"Cardamom, ground",,"Cardamom seed, dried, ground",
+pumpkin seed,40,Pumpkin seeds,,"Seed, pumpkin, hulled & dried",
+juniper berry,40,,missing,,missing
+hot red pepper flake,40,,missing,,missing
+pastry,40,"Pastry, shortcrust, retail, uncooked",,"Pastry, shortcrust style, commercial, raw",
+basmati rice,40,"Rice, white, basmati, raw",,,missing
+lemon rind,39,,missing,"Lemon peel, raw",
+vegetable shortening,39,,missing,,missing
+blue cheese,39,"Cheese, Stilton, blue",,"Cheese, blue vein",
+littleneck clam,39,,missing,,missing
+sherry,39,"Sherry, medium",,"Wine, fortified, sherry, dry style (approximately 1% sugars)",
+beer,39,"Beer, bitter, average (<4% ABV)",,"Beer, mid-strength (alcohol 3-3.9% v/v)",
+rice wine,38,,missing,,missing
+molasses,38,Molasses,,,missing
+simple syrup,38,,missing,,missing
+jicama,38,,missing,,missing
+duck breast,38,"Duck, meat only, raw",,"Duck, lean flesh, raw",
+spanish onion,38,,missing,"Onion, mature, white skinned, peeled, fresh, raw",
+winter squash,38,"Pumpkin, flesh only, raw",,"Pumpkin, peeled, fresh, raw",
+green cabbage,38,"Cabbage, green, raw",,"Cabbage, Chinese, raw",
+saffron thread,38,Saffron,,,missing
+apple cider vinegar,38,,missing,,missing
+peanut butter,37,"Peanut butter, smooth",,"Peanut butter, smooth & crunchy, no added sugar or salt",
+linguine,37,"Pasta, white, dried, raw",,"Pasta, white wheat flour, dry",
+red cabbage,37,"Cabbage, red, raw",,"Cabbage, red, raw",
+fresh rosemary,37,"Rosemary, fresh",,"Rosemary, fresh, raw",
+quinoa,37,"Quinoa, raw",,"Quinoa, uncooked",
+baby spinach,37,"Spinach, baby, raw",,"Spinach, baby, fresh, raw",
+cardamom pod,37,,missing,,missing
+idaho potato,37,,missing,,missing
+clove garlic,37,"Garlic, raw",,"Garlic, peeled, fresh, raw",
+freshly ground black pepper,37,"Pepper, black",,"Pepper, black, ground",
+ice,37,"Water, distilled",,"Water, tap",
+puff pastry,36,"Pastry, flaky/puff, retail, uncooked",,"Pastry, puff, with butter, commercial, raw",
+vanilla ice cream,36,"Ice cream, dairy, vanilla, soft scoop",,"Ice cream, vanilla flavour, regular fat",
+slab bacon,36,"Bacon rashers, middle, raw",,"Bacon, middle rasher, untrimmed, raw",
+bulgur,36,"Wheat, bulgur, raw",,"Bulgur, uncooked",
+yellow cornmeal,36,"Cornmeal, sifted",,"Cornmeal (polenta), uncooked",
+ground black pepper,36,"Pepper, black",,"Pepper, black, ground",
+rabbit,36,"Rabbit, raw, meat only",,"Rabbit, farmed, whole, raw",
+polenta,36,"Polenta, hydrated, raw",,"Cornmeal (polenta), uncooked",
+ketchup,35,Tomato ketchup,,,missing
+mozzarella cheese,35,"Cheese, Mozzarella, fresh",,"Cheese, mozzarella",
+snow pea,35,"Peas, mange-tout, raw",,"Snow pea, fresh, raw",
+oregano leaf,35,"Oregano, fresh",,,missing
+spaghetti,35,"Pasta, white, dried, raw",,"Pasta, white wheat flour, dry",
+lettuce leaf,35,"Lettuce, average, raw",,"Lettuce, iceberg, raw",
+large egg,34,"Eggs, chicken, whole, raw",,"Egg, chicken, whole, raw",
+chopped parsley,34,"Parsley, fresh",,"Parsley, continental, fresh, raw",
+okra,34,"Okra, raw",,"Okra, raw",
+cocoa,34,Cocoa powder,,Cocoa powder,
+plain low fat yogurt,34,"Yogurt, low fat, plain",,"Yoghurt, natural, regular fat (3% fat)",
+medium onion,34,"Onions, raw",,"Onion, mature, brown skinned, peeled, raw",
+arborio rice,34,"Rice, white, Italian Arborio risotto, raw",,,missing
+grape,34,"Grapes, average",,"Grape, red globe, raw",
+sake,34,,missing,,missing
+belgian endive,33,"Endive, raw",,"Endive, fresh, raw",
+halibut,33,"Halibut, flesh only, raw",,,missing
+salted butter,33,"Butter, salted",,"Butter, plain, salted",
+bean sprout,33,,missing,"Sprout, bean, fresh, raw",
+freshly grated parmesan,33,"Cheese, Parmesan, fresh",,"Cheese, parmesan, fresh",
+red chilies,32,"Peppers, capsicum, chilli, red, raw",,"Capsicum, red, fresh, raw",
+grapefruit,32,"Grapefruit, raw, flesh only",,"Grapefruit, peeled, raw",
+fresh mint,32,"Mint, fresh",,"Mint, fresh, raw",
+chicken leg,32,"Chicken, leg quarter, raw, meat and skin",,"Chicken, thigh, lean flesh, raw",
+allspice berry,32,,missing,,missing
+fruit,32,,too vague,,too vague
+oat,31,"Porridge oats, unfortified",,"Oats, rolled, uncooked",
+grand marnier,31,,missing,,missing
+green pea,31,"Peas, raw",,"Pea, green, fresh, raw",
+french bread,31,"Bread, white, French stick",,"Bread, from white flour",
+squash,31,,missing,"Squash, button, fresh, raw",
+quail,31,,missing,"Quail, lean flesh & skin, raw",
+ripe tomato,31,"Tomatoes, standard, raw",,"Tomato, common, raw",
+noodle,31,"Noodles, egg, dried, raw",,"Noodle, wheat, instant, flavoured, dry, uncooked",
+dry vermouth,31,"Vermouth, dry",,,missing
+egg noodle,31,"Noodles, egg, dried, raw",,"Noodle, wheat, instant, flavoured, dry, uncooked",
+sweet paprika,31,Paprika,,"Paprika, dry powder",
+ice water,30,"Water, distilled",,"Water, tap",
+greek yogurt,30,"Yogurt, Greek style, plain",,,missing
+minced garlic,30,"Garlic, raw",,"Garlic, peeled, fresh, raw",
+collard green,30,,missing,,missing
+vanilla,30,,missing,"Vanilla, artificial or imitation",
+pineapple juice,30,"Pineapple juice, unsweetened",,,missing
+coffee,30,"Coffee, infusion, average",,"Coffee, long black, from ground coffee beans",
+fresh thyme leaf,30,"Thyme, fresh",,,missing
+fresh basil,30,"Basil, fresh",,"Basil, green, raw",
+monkfish,30,"Monkfish, flesh only, raw",,,missing
+sugar snap pea,30,"Peas, sugar-snap, raw",,,missing
+lamb shoulder,30,"Lamb, shoulder, raw, lean and fat",,"Lamb, roasting piece, shoulder, lean, raw",
+chorizo,30,Chorizo,,"Sausage, chorizo, uncooked",
+celery leaf,30,,missing,,missing
+swordfish,29,"Swordfish, flesh only, raw",,,missing
+firm tofu,29,,missing,"Tofu (soy bean curd), firm, as purchased",
+fresh lime juice,29,"Lime juice, fresh",,"Juice, lime",
+sweet onion,29,"Onions, raw",,"Onion, mature, brown skinned, peeled, raw",
+pork chop,29,"Pork, loin chops, raw, lean and fat",,"Pork, loin chop, lean, raw",
+powdered sugar,29,"Sugar, icing",,"Sugar, white, icing",
+pomegranate seed,29,,missing,,missing
+light cream,29,"Cream, fresh, single",,"Cream, sour, light (approximately 18% fat)",
+cashew,29,"Cashew nuts, kernel only, plain",,"Nut, cashew, raw, unsalted",
+phyllo dough,29,,missing,,missing
+calvados,28,,missing,,missing
+fettuccine,28,,missing,,missing
+almond flour,28,,missing,,missing
+wine,28,,too vague,,too vague
+pecan half,28,"Pecan nuts, kernel only",,"Nut, pecan, raw, unsalted",
+lemon wedge,28,"Lemons, whole, without pips",,"Lemon, peeled, raw",
+white mushroom,28,"Mushrooms, white, raw",,"Mushroom, common, fresh, raw",
+kirby cucumber,28,"Cucumber, raw, flesh and skin",,"Cucumber, common, unpeeled, raw",
+semisweet chocolate,28,"Chocolate, plain",,"Chocolate, milk",
+fish broth,28,,missing,,missing
+breadcrumb,28,,missing,"Breadcrumbs, white",
+asparagus spear,28,"Asparagus, raw",,"Asparagus, green, raw",
+water chestnut,27,"Water chestnuts, raw",,"Water chestnut, peeled, canned, drained",
+yellow pepper,27,"Pepper, capsicum, yellow, raw",,,missing
+coarse salt,27,Salt,,"Salt, table, non-iodised",
+red snapper,27,"Red snapper, flesh only, raw",,"Snapper, fillet, raw",
+black truffle,27,,missing,,missing
+sea bass,27,"Bass, sea, flesh only, raw",,,missing
+tomato juice,27,Tomato juice,,,missing
+coarse kosher salt,27,Salt,,"Salt, table, non-iodised",
+sauerkraut,27,Sauerkraut,,,missing
+sichuan peppercorn,27,"Pepper, black",,"Pepper, black, ground",
+dry mustard,27,"Mustard, smooth",,,missing
+margarine,27,,missing,"Margarine spread, polyunsaturated (70% fat)",
+mascarpone,27,"Cheese, Mascarpone",,,missing
+rolled oat,27,"Porridge oats, unfortified",,"Oats, rolled, uncooked",
+marinara sauce,27,,missing,,missing
+lime wedge,27,,missing,"Lime, peeled, raw",
+porcini mushroom,26,,missing,,missing
+baby artichoke,26,,missing,,missing
+wild rice,26,"Rice, wild, raw",,"Rice, wild, uncooked",
+pomegranate molasses,26,,missing,,missing
+pecorino romano,26,,missing,,missing
+vegetable,26,,too vague,,too vague
+flat leaf parsley leaf,26,"Parsley, fresh",,"Parsley, continental, fresh, raw",
+champagne,26,,missing,,missing
+trout,26,"Trout, brown, raw",,"Trout, rainbow, aquacultured, raw",
+club soda,26,,missing,"Water, soda",
+barley,26,,missing,,missing
+ground cumin,26,Cumin seeds,,"Cumin (cummin) seed, dried, ground",
+garam masala,26,Garam masala,,,missing
+bread flour,26,"Flour, wheat, bread/strong, white",,"Flour, wheat, white, high protein or bread making flour",
+ice cube,26,"Water, distilled",,"Water, tap",
+salad green,26,"Lettuce, average, raw",,"Lettuce, iceberg, raw",
+savoy cabbage,26,,missing,"Cabbage, savoy, raw",
+fleur de sel,26,,missing,,missing
+portobello mushroom,26,,missing,,missing
+grated parmesan,25,"Cheese, Parmesan, fresh",,"Cheese, parmesan, fresh",
+flaky sea salt,25,Salt,,"Salt, table, non-iodised",
+safflower oil,25,"Oil, safflower",,,missing
+superfine sugar,25,"Sugar, icing",,"Sugar, white, icing",
+lamb shank,25,"Lamb, lean only, raw, average",,"Lamb, fillet, lean, raw",
+caviar,25,"Caviare, bottled in brine, drained",,,missing
+wine vinegar,25,,missing,,missing
+chili paste,25,,missing,,missing
+harissa,25,,missing,,missing
+aleppo pepper,25,,missing,,missing
+red chile flake,25,,missing,,missing
+salt pork,25,,missing,,missing
+bay scallop,25,,missing,"Scallop, raw",
+chanterelle,25,,missing,,missing
+dried apricot,25,"Apricots, dried",,"Apricot, dried",
+green garlic,25,,missing,,missing
+garlic powder,25,Garlic powder,,,missing
+grapefruit juice,25,"Grapefruit juice, unsweetened",,,missing
+tuna steak,25,,missing,"Tuna, yellowfin, flesh, raw",
+cointreau,24,,missing,,missing
+sorrel,24,,missing,,missing
+blood orange,24,"Oranges, flesh only",,"Orange, peeled, raw",
+smoked salmon,24,"Salmon, smoked (cold-smoked)",,"Salmon, smoked, sliced",
+crab,24,"Crab, white meat, purchased cooked",,"Crab, flesh, purchased steamed or boiled",
+haricot verts,24,"Beans, green, raw",,"Bean, green, fresh, raw",
+pistachio nut,24,,missing,"Nut, pistachio, raw, unsalted",
+syrup,24,,too vague,,too vague
+boston lettuce,24,"Lettuce, average, raw",,"Lettuce, iceberg, raw",
+wild mushroom,24,"Mushrooms, white, raw",,"Mushroom, common, fresh, raw",
+ricotta salata,24,,missing,,missing
+chocolate chip,24,"Chocolate, plain",,"Chocolate, milk",
+large onion,24,"Onions, raw",,"Onion, mature, brown skinned, peeled, raw",
+salt to taste,24,Salt,,"Salt, table, non-iodised",
+nam pla,24,,missing,"Sauce, fish, commercial",
+champagne vinegar,24,,missing,,missing
+acorn squash,24,"Squash, acorn, raw",,,missing
+potato starch,24,,missing,"Starch, potato",
+cantaloupe,23,"Melon, Canteloupe-type, flesh only",,,missing
+leaf,23,,too vague,,too vague
+angostura bitter,23,,missing,,missing
+arugula leaf,23,"Rocket, raw",,"Rocket, fresh, raw",
+mace,23,"Mace, ground",,,missing
+ground ginger,23,"Ginger, ground",,"Ginger, dried, ground",
+shortening,23,,missing,,missing
+italian sausage,23,,missing,,missing
+spring onion,23,"Spring onions, bulbs only, raw",,"Onion, spring, fresh, raw",
+pie shell,23,,missing,,missing
+rose water,23,,missing,,missing
+baking potato,23,"Potatoes, old, raw, flesh only",,"Potato, pale skin, peeled, raw",
+melted butter,23,"Butter, unsalted",,"Butter, plain, no added salt",
+sauce,23,,too vague,,too vague
+freshly ground pepper,23,"Pepper, black",,"Pepper, black, ground",
+lime leaf,23,,missing,,missing
+sweet pepper,23,"Pepper, capsicum, red, raw",,"Capsicum, red, fresh, raw",
+salt and white pepper,23,Salt,,"Salt, table, non-iodised",
+pernod,23,,missing,,missing
+green chili,23,"Peppers, capsicum, chilli, green, raw",,"Capsicum, green, fresh, raw",
+chicken wing,22,"Chicken, meat, average, raw",,"Chicken, wing, lean flesh, raw",
+cream of tartar,22,Cream of tartar,,"Cream of tartar, dry powder",
+poppy seed,22,Poppy seeds,,"Seed, poppy",
+whole wheat pastry flour,22,"Flour, wheat, wholemeal",,"Flour, wheat, wholemeal, plain",
+green chilies,22,"Peppers, capsicum, chilli, green, raw",,"Capsicum, green, fresh, raw",
+veal stock,22,,missing,,missing
+chicken or vegetable stock,22,"Stock, chicken, ready made, retail",,,missing
+yellow squash,22,,missing,,missing
+chili oil,22,,missing,,missing
+hot pepper flake,22,,missing,,missing
+summer squash,22,,missing,,missing
+lima bean,22,,missing,"Bean, lima, dried",
+clam juice,22,,missing,,missing
+red chili flake,22,,missing,,missing
+kaffir lime leaf,22,,missing,,missing
+penne,22,"Pasta, white, dried, raw",,"Pasta, white wheat flour, dry",
+pork tenderloin,22,"Pork, loin steaks, raw, lean and fat",,"Pork, loin roast, lean, raw",
+cannellini bean,22,,missing,,missing
+white turnip,22,"Turnip, flesh only, raw",,"Turnip, white, peeled, fresh, raw",
+ground pepper,22,"Pepper, black",,"Pepper, black, ground",
+cardamom seed,22,,missing,"Cardamom seed, dried, ground",
+oyster sauce,22,,missing,"Sauce, oyster, commercial",
+chopped tomato,22,"Tomatoes, standard, raw",,"Tomato, common, raw",
+iceberg lettuce,21,"Lettuce, average, raw",,"Lettuce, iceberg, raw",
+unsweetened chocolate,21,,missing,,missing
+live lobster,21,,missing,"Lobster, southern rock, wild, flesh, raw",
+kirsch,21,,missing,,missing
+cod fillet,21,"Cod, flesh only, raw",,,missing
+black eyed pea,21,"Beans, blackeye, whole, dried, raw",,,missing
+hoisin sauce,21,,missing,"Sauce, hoi sin (hoisin), commercial",
+serrano chilies,21,"Peppers, capsicum, chilli, red, raw",,,missing
+fresh dill,21,"Dill, fresh",,"Dill, fresh, raw",
+sweet corn,21,"Sweetcorn, kernels, raw",,"Corn, fresh on cob, raw",
+tortilla,21,"Tortilla, wheat, soft",,,missing
+whole clove,21,"Cloves, dried",,"Cloves, dried, ground",
+dried oregano,21,"Oregano, dried, ground",,"Oregano, dried",
+candied ginger,21,,missing,,missing
+escarole,21,,missing,,missing
+kalamata olive,21,,missing,"Olive, green or black, drained",
+farro,21,,missing,,missing
+crouton,21,,missing,,missing
+pecorino cheese,21,,missing,,missing
+bass,21,"Bass, sea, flesh only, raw",,,missing
+napa cabbage,21,"Cabbage, Chinese, raw",,"Cabbage, Chinese, raw",
+marjoram leaf,20,,missing,,missing
+garlic minced,20,"Garlic, raw",,"Garlic, peeled, fresh, raw",
+espresso,20,,missing,"Coffee, espresso, from ground coffee beans",
+daikon radish,20,"Radish, white/mooli, raw",,"Radish, white skinned, peeled, raw",
+almond extract,20,,missing,,missing
+raw brown sugar,20,"Sugar, brown",,"Sugar, brown",
+cornish hen,20,,missing,,missing
+boiling water,20,"Water, distilled",,"Water, tap",
+bamboo shoot,20,,missing,"Bamboo shoot, canned in water, heated, drained",
+baby arugula,20,"Rocket, raw",,"Rocket, fresh, raw",
+rice noodle,20,,missing,,missing
+papaya,20,"Papaya, raw, flesh only",,"Pawpaw (papaya), peeled, raw",
+salt cod,20,"Cod, dried, salted, boiled",,,missing
+orange rind,20,,missing,,missing
+green peppercorn,20,,missing,,missing
+bosc pear,20,,missing,,missing
+flour tortilla,20,"Tortilla, wheat, soft",,,missing
+demerara sugar,20,"Sugar, Demerara",,"Sugar, brown",
+rice flour,20,"Flour, rice",,"Flour, rice",
+beet green,20,,missing,,missing
+flank steak,20,"Beef, flank, raw, lean",,"Beef, all cuts, separable fat, raw",
+sirloin,20,"Beef, sirloin steak, raw, lean",,"Beef, sirloin steak, lean, raw",
+venison,20,"Venison, meat only, raw",,,missing
+brioche,20,,missing,,missing
+cold water,20,"Water, distilled",,"Water, tap",
+salt and freshly ground black pepper,20,Salt,,"Salt, table, non-iodised",
+pesto,19,"Pesto, green",,,missing
+ground beef,19,"Beef, mince, raw",,"Beef, mince, regular fat, raw",
+black mustard seed,19,Mustard seeds,,,missing
+cornichons,19,,missing,,missing
+coarse sea salt,19,Salt,,"Salt, table, non-iodised",
+ground clove,19,"Cloves, dried",,"Cloves, dried, ground",
+bibb lettuce,19,"Lettuce, average, raw",,"Lettuce, iceberg, raw",
+grated nutmeg,19,"Nutmeg, ground",,"Nutmeg, dried, ground",
+rutabaga,19,,missing,,missing
+broccoli floret,19,"Broccoli, green, raw",,"Broccoli, fresh, raw",
+pimenton,19,,missing,,missing
+serrano pepper,19,,missing,,missing
+pheasant,19,,missing,,missing
+poblano pepper,19,,missing,,missing
+cooked rice,19,"Rice, white, long grain, boiled in unsalted water",,"Rice, white, boiled or rice cooker, no added salt",
+red chile,19,"Peppers, capsicum, chilli, red, raw",,"Capsicum, red, fresh, raw",
+chopped onion,19,"Onions, raw",,"Onion, mature, brown skinned, peeled, raw",
+tahini,19,Tahini paste,,"Tahini, sesame seed pulp",
+chile powder,19,Chilli powder,,,missing
+dijon style mustard,19,,missing,,missing
+celery seed,19,,missing,,mising
+hot pepper,19,"Peppers, capsicum, chilli, red, raw",,"Capsicum, red, fresh, raw",
+panko,19,,missing,,missing
+mesclun,19,,missing,,missing
+pomegranate,19,"Pomegranate, flesh and pips",,"Pomegranate, peeled, raw",
+tequila,19,,missing,,missing
+kidney bean,19,"Beans, red kidney, canned in water, re-heated, drained",,"Bean, red kidney, canned, drained",
+crabmeat,19,"Crab, white meat, purchased cooked",,"Crab, flesh, purchased steamed or boiled",
+anise seed,19,Anise seeds,,,missing
+broccoli crown,18,"Broccoli, green, raw",,"Broccoli, fresh, raw",
+chile,18,"Peppers, capsicum, chilli, red, raw",,"Capsicum, red, fresh, raw",
+large garlic clove,18,"Garlic, raw",,"Garlic, peeled, fresh, raw",
+fresh sage,18,"Sage, fresh",,,missing
+orzo,18,"Pasta, white, dried, raw",,"Pasta, white wheat flour, dry",
+coconut oil,18,"Oil, coconut",,,missing
+monterey jack cheese,18,,missing,,missing
+pearl onion,18,,missing,,missing
+dry bread crumb,18,,missing,"Breadcrumbs, white",
+edamame,18,,missing,,missing
+sardine,18,"Sardines, flesh only, raw",,"Sardine, Australian, whole, raw",
+whipping cream,18,"Cream, fresh, whipping",,,missing
+sour cherry,18,,missing,,missing
+duck fat,18,,missing,,missing
+chili sauce,18,Chilli sauce,,,missing
+chard,18,"Chard, Swiss, raw",,,missing
+navel orange,18,"Oranges, flesh only",,"Orange, navel, peeled, raw",
+italian plum tomato,18,"Tomatoes, standard, raw",,"Tomato, common, raw",
+lime zest,18,,missing,,missing
+pink peppercorn,18,,missing,,missing
+bok choy,18,,missing,"Bok choy, raw",
+green apple,18,"Apples, eating, raw, flesh and skin",,"Apple, granny-smith, unpeeled, raw",
+seltzer,17,,missing,,missing
+chopped chive,17,"Chives, fresh",,"Chives, raw",
+brisket,17,"Beef, brisket, raw, lean",,,missing
+barbecue sauce,17,Barbecue sauce,,"Sauce, barbecue, commercial",
+rye flour,17,"Flour, rye",,"Flour, rye",
+calamata olive,17,,missing,"Olive, green or black, drained",
+fennel frond,17,,missing,,missing
+pita bread,17,"Bread, pitta, white",,"Bread, flat (pita or Lebanese), wholemeal, commercial",
+serrano,17,,missing,,missing
+freshly grated nutmeg,17,"Nutmeg, ground",,"Nutmeg, dried, ground",
+fresh tarragon,17,"Tarragon, fresh",,,missing
+five spice powder,17,,missing,,missing
+skim milk,17,"Milk, skimmed, pasteurised, average",,"Milk, cow, fluid, skim (0.15% fat)",
+queso fresco,17,,missing,,missing
+madeira,17,,missing,,missing
+green tomato,17,,missing,,missing
+sumac,17,,missing,,missing
+veal shank,17,,missing,"Veal, all cuts, separable fat, raw",
+pizza dough,17,,missing,,missing
+chuck,17,,missing,"Beef, casserole meat, boneless, chuck, lean, raw",
+oyster mushroom,17,"Mushrooms, oyster, raw",,,missing
+cremini mushroom,17,,missing,,missing
+sriracha,17,,missing,,missing
+campari,17,,missing,,missing
+chopped scallion,17,"Spring onions, bulbs only, raw",,"Onion, spring, fresh, raw",
+smoked paprika,17,Paprika,,"Paprika, dry powder",
+pork belly,17,"Pork, belly joint/slices, raw, lean and fat",,,missing
+red chili,17,"Peppers, capsicum, chilli, red, raw",,"Capsicum, red, fresh, raw",
+arrowroot,17,Arrowroot,,,missing
+navy bean,17,,missing,,missing
+pomegranate juice,17,Pomegranate juice drink,,,missing
+sole,17,"Dover sole, raw",,,missing
+serrano chili,17,"Peppers, capsicum, chilli, red, raw",,"Capsicum, red, fresh, raw",
+minced shallot,17,"Shallots, raw",,"Shallot, peeled, fresh, raw",
+grape seed oil,17,"Oil, grapeseed",,"Oil, grapeseed",
+ghee,17,"Ghee, butter",,"Ghee, clarified butter",
+chopped fresh parsley,17,"Parsley, fresh",,"Parsley, continental, fresh, raw",
+port,17,Port,,"Wine, fortified, port",
+chili flake,16,,missing,,missing
+fontina cheese,16,,missing,,missing
+fresh oregano,16,"Oregano, fresh",,,missing
+raspberry vinegar,16,,missing,,missing
+jalapeno chili,16,"Peppers, capsicum, chilli, red, raw",,"Capsicum, red, fresh, raw",
+small onion,16,"Onions, raw",,"Onion, mature, brown skinned, peeled, raw",
+tamarind paste,16,Tamarind,,"Tamarind, paste, pure",
+sweet vermouth,16,,missing,,missing
+bacon fat,16,"Bacon, fat only, average, raw",,,missing
+orange flower water,16,,missing,,missing
+apricot preserve,16,,missing,,missing
+yam,16,"Yam, flesh only, raw",,,missing
+white chocolate,16,"Chocolate, white",,"Chocolate, white",
+long grain rice,16,"Rice, white, long grain, raw",,"Rice, white, uncooked",
+apple juice,16,"Apple juice, clear, ambient and chilled",,"Fruit drink, apple juice",
+armagnac,16,,missing,,missing
+masa harina,16,,missing,,missing
+fish fillet,16,,too vague,,too vague
+frisee,16,,missing,,missing
+flounder,16,"Flounder, raw",,,missing
+beef chuck,16,,missing,"Beef, casserole meat, boneless, chuck, lean, raw",
+sunflower seed,16,Sunflower seeds,,"Seed, sunflower",
+halibut fillet,16,"Halibut, flesh only, raw",,,missing
+swiss cheese,15,,missing,,missing
+kosher salt and black pepper,15,Salt,,"Salt, table, non-iodised",
+dark sesame oil,15,"Oil, sesame",,,missing
+mustard green,15,,missing,,missing
+dark soy sauce,15,"Soy sauce, light and dark varieties",,"Sauce, soy, commercial",
+chicken breast half,15,"Chicken, light meat, raw",,"Chicken, breast, lean flesh, raw",
+nectarine,15,"Nectarines, flesh and skin",,"Nectarine, yellow, unpeeled, raw",
+fresh cilantro,15,"Coriander leaves, fresh",,"Coriander, fresh, leaves & stems",
+italian parsley leaf,15,"Parsley, fresh",,"Parsley, continental, fresh, raw",
+graham cracker,15,Cream crackers,,"Biscuit, savoury, from white wheat flour, plain snack cracker style",
+meyer lemon,15,"Lemons, peeled, flesh only",,"Lemon, peeled, raw",
+lukewarm water,15,"Water, distilled",,"Water, tap",
+salsa,15,,missing,"Sauce, salsa, tomato-based, commercial",
+evaporated milk,15,"Milk, evaporated, whole",,"Milk, cow, canned, evaporated, regular",
+button mushroom,15,"Mushrooms, white, raw",,"Mushroom, common, fresh, raw",
+red lentil,15,"Lentils, red, split, dried, raw",,"Lentil, red, hulled, dry",
+fresh basil leaf,15,"Basil, fresh",,"Basil, green, raw",
+shad,15,,missing,,missing
+liqueur,15,"Liqueurs, high strength",,,missing
+matzoh meal,15,,missing,,missing
+octopus,15,"Octopus, raw",,"Octopus, raw",
+unsweetened cocoa powder,15,Cocoa powder,,Cocoa powder,
+white flour,15,"Flour, wheat, white, plain, soft",,"Flour, wheat, white, plain",
+agave syrup,15,,missing,,missing
+orange liqueur,15,,missing,,missing
+cooking oil,15,"Oil, vegetable, average",,"Oil, vegetable",
+buckwheat flour,15,,missing,,missing
+savory,15,,missing,,missing
+herbes de provence,15,,missing,,missing
+cottage cheese,15,"Cheese, cottage, plain",,"Cheese, cottage",
+celery stalk,15,"Celery, raw",,"Celery, fresh, raw",
+bay,15,"Bay leaf, dried",,,missing
+freshly squeezed lemon juice,15,"Lemon juice, fresh",,"Juice, lemon",
+jalapeno chilies,15,"Peppers, capsicum, chilli, red, raw",,"Capsicum, red, fresh, raw",
+ancho chilies,15,"Peppers, capsicum, chilli, red, raw",,"Capsicum, red, fresh, raw",
+sweet italian sausage,15,,missing,,missing
+triple sec,15,,missing,,missing
+hazelnut oil,15,"Oil, hazelnut",,,missing
+tonic water,15,Tonic water,,"Soft drink, tonic water",
+freshly grated parmesan cheese,15,"Cheese, Parmesan, fresh",,"Cheese, parmesan, fresh",
+ground coriander,15,Coriander seeds,,"Coriander seed, dried, ground",
+pecorino,14,,missing,,missing
+chorizo sausage,14,Chorizo,,"Sausage, chorizo, uncooked",
+head garlic,14,"Garlic, raw",,"Garlic, peeled, fresh, raw",
+dried cranberry,14,,missing,"Cranberry, dried, sweetened",
+tangerine,14,,missing,"Tangerine or tangor, peeled, raw",
+green lentil,14,"Lentils, green and brown, whole, dried, raw",,"Lentil, green, hulled, dry",
+smoked trout,14,,missing,,missing
+onion powder,14,,missing,,missing
+small red onion,14,"Onions, raw",,"Onion, mature, brown skinned, peeled, raw",
+crumbled feta,14,"Cheese, Feta",,"Cheese, fetta (feta)",
+beef short rib,14,"Beef, fore-rib/rib-roast, raw, lean",,"Beef, all cuts, separable fat, raw",
+ginger juice,14,,missing,,missing
+skate wing,14,"Skate, raw",,,missing
+sorrel leaf,14,,missing,,missing
+warm water,14,"Water, distilled",,"Water, tap",
+smoked bacon,14,,missing,,missing
+pimento,14,,missing,,missing
+juice,14,,too vague,,too vague
+ice cream,14,"Ice cream, dairy, vanilla, soft scoop",,"Ice cream, vanilla flavour, regular fat",
+herb bouquet,14,,missing,,missing
+walnut half,14,"Walnuts, kernel only",,"Nut, walnut, raw, unsalted",
+truffle,14,,missing,,missing
+oatmeal,14,,missing,,missing
+crusty bread,14,"Bread, white, crusty bloomer, unsliced, fresh, large",,"Bread, from white flour",
+tarragon vinegar,14,,missing,,missing
+porcini,14,,missing,,missing
+apricot jam,14,,missing,,missing
+raspberry jam,14,"Jam, fruit with edible seeds",,"Jam, berry",
+hamburger bun,14,"Bread rolls, white, soft",,"Bread roll, from white flour",
+hot red pepper,14,"Peppers, capsicum, chilli, red, raw",,"Capsicum, red, fresh, raw",
+hot pepper sauce,14,,missing,,missing
+thyme sprig,14,"Thyme, fresh",,,missing
+sesame paste,14,,missing,,missing
+jumbo shrimp,14,,missing,"Prawn, flesh, raw (green)",
+semolina flour,14,,missing,,missing
+graham cracker crumb,14,Cream crackers,,"Biscuit, savoury, from white wheat flour, plain snack cracker style",
+soba noodle,14,,missing,"Noodle, soba, dry",
+piquillo pepper,14,,missing,,missing
+virgin olive oil,13,"Oil, olive",,"Oil, olive",
+salmon caviar,13,,missing,,missing
+thai basil,13,,missing,,missing
+condensed milk,13,"Milk, condensed, whole, sweetened",,"Milk, cow, canned, sweetened, condensed, regular",
+white miso,13,,missing,,missing
+bitter,13,,missing,,missing
+sherry wine vinegar,13,,missing,,missing
+pepper sauce,13,,missing,,missing
+nicoise olive,13,,missing,"Olive, green or black, drained",
+chicken fat,13,,missing,,missing
+hominy,13,,missing,,missing
+calf s liver,13,"Liver, calf, raw",,,missing
+meat,13,,too vague,,too vague
+chervil leaf,13,"Chervil, dried",,,missing
+anchovy paste,13,,missing,,missing
+beef brisket,13,"Beef, brisket, raw, lean",,,missing
+kohlrabi,13,"Kohl rabi, raw",,"Kohlrabi, peeled, fresh, raw",
+pork sausage,13,"Sausages, pork, raw",,,missing
+lean beef,13,"Beef, lean, average, raw",,"Beef, all cuts, separable fat, raw",
+lump crab meat,13,"Crab, white meat, purchased cooked",,"Crab, flesh, purchased steamed or boiled",
+celery salt,13,,missing,,missing
+chickpea flour,13,,missing,"Flour, chickpea (besan)",
+mache,13,,missing,,missing
+sausage meat,13,,missing,,missing
+chile flake,13,,missing,,missing
+mascarpone cheese,13,"Cheese, Mascarpone",,,missing
+instant yeast,13,"Yeast, dried",,"Yeast, dry powder",
+sesame tahini,13,Tahini paste,,"Tahini, sesame seed pulp",
+soft shell crab,13,,missing,,missing
+italian tomato,13,"Tomatoes, standard, raw",,"Tomato, common, raw",
+white peppercorn,13,,missing,,missing
+pinto bean,13,"Beans, pinto, dried, raw",,,missing
+pepper flake,13,,missing,,missing
+matzo meal,13,,missing,,missing
+farfalle,13,"Pasta, white, dried, raw",,"Pasta, white wheat flour, dry",
+string bean,13,"Beans, green, raw",,"Bean, green, fresh, raw",
+light soy sauce,13,"Soy sauce, light and dark varieties",,"Sauce, soy, commercial",
+skirt steak,13,,missing,,missing
+absinthe,13,,missing,,missing
+pork butt,13,,missing,,missing
+rom tomato,13,"Tomatoes, standard, raw",,"Tomato, roma, raw",
+maraschino liqueur,13,,missing,,missing
+lobster meat,13,,missing,"Lobster, southern rock, wild, flesh, raw",
+chopped walnut,13,"Walnuts, kernel only",,"Nut, walnut, raw, unsalted",
+green chile,13,"Peppers, capsicum, chilli, green, raw",,"Capsicum, green, fresh, raw",
+minced chive,13,"Chives, fresh",,"Chives, raw",
+romaine,13,"Lettuce, average, raw",,"Lettuce, iceberg, raw",
+tapioca,13,"Tapioca, raw",,"Tapioca, pearl or seed style, uncooked",
+fingerling potato,13,"Potatoes, old, raw, flesh only",,"Potato, pale skin, peeled, raw",
+green chili pepper,13,"Peppers, capsicum, chilli, green, raw",,"Capsicum, green, fresh, raw",
+applesauce,13,"Apple sauce, homemade",,,missing
+waxy potato,13,"Potatoes, new and salad, flesh only, raw",,"Potato, new, peeled, raw",
+cranberry bean,12,,missing,"Cranberry, raw",
+pie crust,12,,missing,,missing
+jerusalem artichoke,12,,missing,"Artichoke, jerusalem, peeled, raw",
+yellow mustard seed,12,,missing,,missing
+unflavored gelatin,12,Gelatine,,"Gelatine, all types",
+mustard powder,12,Mustard powder,,Mustard powder,
+fresh mozzarella,12,"Cheese, Mozzarella, fresh",,"Cheese, mozzarella",
+elbow macaroni,12,"Pasta, white, dried, raw",,"Pasta, white wheat flour, dry",
+chipotle,12,,missing,,missing
+chopped fresh mint,12,"Mint, fresh",,"Mint, fresh, raw",
+maraschino cherry,12,,missing,,missing
+pecorino romano cheese,12,,missing,,missing
+baby bok choy,12,,missing,"Bok choy, raw",
+hard boiled egg,12,"Eggs, chicken, whole, boiled",,"Egg, chicken, whole, hard-boiled",
+dandelion green,12,,missing,,missing
+ground nutmeg,12,"Nutmeg, ground",,"Nutmeg, dried, ground",
+jalapeno chile,12,"Peppers, capsicum, chilli, red, raw",,"Capsicum, red, fresh, raw",
+ramp,12,,missing,,missing
+black rice,12,,missing,,missing
+plantain,12,"Plantain, green flesh, raw",,,missing
+cilantro sprig,12,"Coriander leaves, fresh",,"Coriander, fresh, leaves & stems",
+hungarian paprika,12,Paprika,,"Paprika, dry powder",
+short rib,12,,missing,,missing
+mung bean sprout,12,,missing,"Sprout, bean, fresh, raw",
+english pea,12,"Peas, raw",,"Pea, green, fresh, raw",
+orange marmalade,12,Marmalade,,"Marmalade, orange",
+squab,12,,missing,"Pigeon (squab), whole, raw",
+vermouth,12,"Vermouth, dry",,,missing
+curry leaf,12,"Curry leaves, fresh",,,missing
+grappa,12,,missing,,missing
+chopped garlic,12,"Garlic, raw",,"Garlic, peeled, fresh, raw",
+finely chopped onion,12,"Onions, raw",,"Onion, mature, brown skinned, peeled, raw",
+cheddar,12,"Cheese, Cheddar, English",,"Cheese, cheddar, natural, regular fat",
+ground cardamom,12,"Cardamom, ground",,"Cardamom seed, dried, ground",
+thai chilies,12,,missing,,missing
+freshly squeezed lime juice,12,"Lime juice, fresh",,"Juice, lime",
+rib celery,12,"Celery, raw",,"Celery, fresh, raw",
+sharp cheddar cheese,12,"Cheese, Cheddar, English",,"Cheese, cheddar, natural, regular fat",
+white rum,12,,missing,"Alcoholic beverage, spirit, approximately 40% v/v, all (Brandy, Gin, Rum, Vodka and Whisky)",
+kombu,12,,missing,,missing
+cold unsalted butter,12,"Butter, unsalted",,"Butter, plain, no added salt",
+turbinado sugar,12,,missing,,
+stale bread,12,"Bread, white, average",,"Bread, from white flour",
+truffle oil,12,,missing,,missing
+red currant jelly,12,,missing,,missing
+scallion green,12,"Spring onions, bulbs and tops, raw",,"Onion, spring, fresh, raw",
+jam,12,"Jam, fruit with edible seeds",,"Jam, berry",
+soda water,12,,missing,"Water, soda",
+shad roe,12,,missing,,missing
+green cardamom pod,12,,missing,,missing
+confectioner s sugar,12,"Sugar, icing",,"Sugar, white, icing",
+frozen pea,12,"Peas, frozen, raw",,,
+oxtail,12,"Oxtail, raw",,,missing
+phyllo,12,,missing,,missing
+grit,12,,missing,"Maize, grits, uncooked",
+jasmine rice,12,,missing,,missing
+corn peanut or vegetable oil,12,"Oil, vegetable, average",,"Oil, vegetable",
+walnut meat,12,"Walnuts, kernel only",,"Nut, walnut, raw, unsalted",
+chick pea,12,"Beans, chick peas, canned, re-heated, drained",,"Chickpea, canned, drained",
+red bean,11,"Beans, red kidney, canned in water, re-heated, drained",,"Bean, red kidney, canned, drained",
+tortilla chip,11,,missing,,missing
+turkey stock,11,,missing,,missing
+pappardelle,11,"Pasta, egg, white, dried, raw",,"Pasta, white wheat flour, dry",
+shell bean,11,,missing,,missing
+lean pork,11,"Pork, lean, average, raw",,"Pork, fillet, lean, raw",
+whole milk yogurt,11,"Yogurt, whole milk, plain",,"Yoghurt, natural, regular fat (3% fat)",
+foie gras,11,,missing,,missing
+gorgonzola,11,,missing,,missing
+red food coloring,11,,missing,,missing
+head cauliflower,11,"Cauliflower, raw",,"Cauliflower, fresh, raw",
+miso,11,,missing,,missing
+brown lentil,11,"Lentils, green and brown, whole, dried, raw",,,missing
+dried mushroom,11,"Mushroom, dried",,,missing
+medium carrot,11,"Carrots, old, raw",,"Carrot, mature, peeled, fresh, raw",
+fresh mint leaf,11,"Mint, fresh",,"Mint, fresh, raw",
+large carrot,11,"Carrots, old, raw",,"Carrot, mature, peeled, fresh, raw",
+ziti,11,,missing,,missing
+lasagna noodle,11,,missing,,missing
+nut,11,"Nuts, mixed",,,missing
+shiitake,11,"Mushrooms, shiitake, dried, raw",,,missing
+water chicken stock or vegetable stock,11,"Stock, chicken, ready made, retail",,,missing
+low fat yogurt,11,"Yogurt, low fat, plain",,,missing
+tamari,11,,missing,,missing
+pink grapefruit,11,"Grapefruit, raw, flesh only",,"Grapefruit, peeled, raw",
+star anise pod,11,,missing,,missing
+minced ginger,11,"Ginger, fresh",,"Ginger, peeled, fresh, raw",
+liquid,11,,too vague,,too vague
+blue crab,11,,missing,"Crab, flesh, purchased steamed or boiled",
+light rum,11,,missing,"Alcoholic beverage, spirit, approximately 40% v/v, all (Brandy, Gin, Rum, Vodka and Whisky)",
+dark chocolate,11,,missing,"Chocolate, dark, high cocoa solids",
+garlic crouton,11,,missing,,missing
+orange bitter,11,,missing,,missing
+cider,11,"Cider, dry",,"Cider, apple (alcohol approximately 4-5% v/v)",
+finely chopped parsley,11,"Parsley, fresh",,"Parsley, continental, fresh, raw",
+ground allspice,11,"Allspice, ground",,,missing
+hot water,11,"Water, distilled",,"Water, tap",
+dried thyme,11,"Thyme, dried, ground",,"Thyme, dried, ground",
+loin of pork,11,"Pork, loin steaks, raw, lean and fat",,"Pork, loin chop, untrimmed, raw",
+roasted peanut,11,"Peanuts, dry roasted",,"Nut, peanut, without skin, roasted, with oil, unsalted",
+fresh spinach,11,"Spinach, mature, raw",,"Spinach, Mature English, fresh, raw",
+italian bread,11,"Bread, ciabatta",,"Bread, from white flour, Italian-style, commercial",
+bonito flake,11,,missing,,missing
+ham hock,11,,missing,"Ham, leg, lean",
+medjool date,11,,missing,"Date, dried",
+blanched almond,11,"Almonds, flaked and ground",,,missing
+fine cornmeal,11,"Cornmeal, sifted",,"Cornmeal (polenta), uncooked",
+dried currant,11,Currants,,"Currant, dried",
+galangal,11,,missing,,missing
+hot paprika,11,Paprika,,"Paprika, dry powder",
+black sesame seed,11,Sesame seeds,,,missing
+chopped fresh dill,11,"Dill, fresh",,"Dill, fresh, raw",
+chopped fresh herb,11,,too vague,,too vague
+andouille sausage,11,,missing,,missing
+rice vermicelli,11,,missing,,missing
+garlic peeled,11,"Garlic, raw",,"Garlic, peeled, fresh, raw",
+red kidney bean,11,"Beans, red kidney, canned in water, re-heated, drained",,"Bean, red kidney, dried, boiled, drained",
+pea shoot,11,,missing,,missing
+plain greek yogurt,11,"Yogurt, Greek style, plain",,,missing
+preserved lemon,11,,missing,"Lemon, preserved",
+celeriac,11,"Celeriac, raw",,"Celeriac, peeled, raw",
+pure vanilla extract,10,,missing,Vanilla bean extract,
+black sea bass,10,"Bass, sea, flesh only, raw",,"Bassa, fillet, raw",
+kasha,10,,missing,,missing
+dough,10,,missing,,missing
+loin lamb chop,10,"Lamb, loin chops, raw, lean and fat",,"Lamb, boneless, fillet or loin, lean, raw",
+gingerroot,10,"Ginger, fresh",,"Ginger, peeled, fresh, raw",
+coconut cream,10,Coconut milk,,"Coconut, cream, regular fat",
+minced fresh ginger,10,"Ginger, fresh",,"Ginger, peeled, fresh, raw",
+bluefish,10,,missing,,missing
+codfish,10,"Cod, flesh only, raw",,,missing
+blood orange juice,10,"Orange juice, chilled",,"Juice, orange, commercial",
+steak,10,"Beef, rump steak, raw, lean",,"Beef, rump steak, lean, raw",
+nuoc mam,10,,missing,,missing
+honeydew melon,10,"Melon, Honeydew, flesh only, weighed whole",,"Melon, honey dew, white skin, peeled, raw",
+sunflower oil,10,"Oil, sunflower",,"Oil, sunflower",
+salt and freshly ground pepper,10,Salt,,"Salt, table, non-iodised",
+creme de cassis,10,,missing,,missing
+asafetida,10,Asafoetida,,,missing
+green grape,10,"Grapes, green",,"Grape, thompson seedless or sultana, raw",
+pearl barley,10,"Barley, pearl, raw",,"Barley, pearl, uncooked",
+red pepper sauce,10,,missing,,missing
+fromage blanc,10,,missing,,missing
+chopped flat leaf parsley,10,"Parsley, fresh",,"Parsley, continental, fresh, raw",
+kumquat,10,,missing,"Cumquat (kumquat), raw",
+fruity red wine,10,"Wine, red",,"Wine, red",
+beefsteak tomato,10,"Tomatoes, standard, raw",,"Tomato, common, raw",
+ladyfinger,10,,missing,"Banana, lady finger or sugar, peeled, raw",
+asian fish sauce,10,,missing,"Sauce, fish, commercial",
+turkey meat,10,"Turkey, light meat, raw",,"Turkey, breast, lean flesh, raw",
+ginger beer,10,,missing,,missing
+white bread crumb,10,,missing,"Breadcrumbs, white",
+unsweetened coconut milk,10,Coconut milk,,"Coconut, milk, canned, regular fat",
+ha avocado,10,"Avocado, Hass, flesh only",,"Avocado, raw",
+bread cube,10,,missing,,missing
+unsweetened cocoa,10,Cocoa powder,,Cocoa powder,
+romaine lettuce leaf,10,"Lettuce, average, raw",,"Lettuce, iceberg, raw",
+chipotle chilies,10,"Peppers, capsicum, chilli, red, raw",,"Capsicum, red, fresh, raw",
+ruby port,10,Port,,"Wine, fortified, port",
+french baguette,10,"Bread, white, French stick",,"Bread, from white flour",
+broken walnut,10,"Walnuts, kernel only",,"Nut, walnut, raw, unsalted",
+riesling,10,"Wine, white, dry",,"Wine, white, riesling",
+orange blossom water,10,,missing,,missing
+cranberry juice,10,Cranberry fruit juice drink,,"Fruit drink, cranberry",
+new potato,10,"Potatoes, new and salad, flesh only, raw",,"Potato, new, peeled, raw",
+seed,10,,too vague,,too vague
+chili pepper flake,10,,missing,,missing
+ground lamb,10,"Lamb, mince, raw",,"Lamb, mince, raw",
+dried fig,10,"Figs, whole fruit, dried",,"Fig, dried",
+chia seed,10,,missing,"Seed, chia, dried",
+white truffle,10,,missing,,missing
+sweetened condensed milk,10,"Milk, condensed, whole, sweetened",,"Milk, cow, canned, sweetened, condensed, regular",
+marsala,10,,missing,,missing
+ground turmeric,10,"Turmeric, ground",,"Turmeric, dried, ground",
+spaghetti squash,10,"Squash, spaghetti, raw",,,missing
+barberry,10,,missing,,missing
+agave nectar,10,,missing,,missing
+scotch,10,,missing,,missing
+drained yogurt,10,"Yogurt, whole milk, plain",,"Yoghurt, natural, regular fat (3% fat)",
+mackerel,10,"Mackerel, flesh only, raw",,"Mackerel, raw",
+whole grain mustard,10,"Mustard, wholegrain",,,missing
+bulgur wheat,10,"Wheat, bulgur, raw",,"Bulgur, uncooked",
+grated lemon zest,10,,missing,"Lemon peel, raw",
+amontillado sherry,10,,missing,"Wine, fortified, sherry, dry style (approximately 1% sugars)",
+english cucumber,10,"Cucumber, raw, flesh and skin",,"Cucumber, common, unpeeled, raw",
+lemon twist,10,"Lemon juice, fresh",,"Juice, lemon",
+ripe banana,10,"Bananas, flesh only",,"Banana, cavendish, peeled, raw",
+shrimp paste,10,,missing,"Paste, shrimp",
+ground pork,10,"Pork, mince, raw",,"Pork, mince, untrimmed, raw",
+whole wheat bread,10,"Bread, wholemeal, average",,"Bread, from wholemeal flour",
+fresh bread crumb,10,,missing,"Breadcrumbs, white",
+hard cooked egg,10,"Eggs, chicken, whole, boiled",,"Egg, chicken, whole, hard-boiled",
+tangerine juice,10,,missing,,missing
