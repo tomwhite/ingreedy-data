@@ -17,6 +17,8 @@ Then run this to generate a CSV and JSON with just the food nutrient data we nee
 
 ```bash
 python build_foodsearch.py
+echo -n "const mccance = " | cat - data/processed/foodsearch.json > data/processed/foodsearch_def.js
+echo "" >> data/processed/foodsearch_def.js
 ```
 
 ## 2. Normalize NYT ingredient food names
@@ -40,4 +42,6 @@ Download the "foodmap" sheet as a CSV file and save in _data/processed_
 ```bash
 mv "/Users/tom/Downloads/foodmap - foodmap.csv" data/processed/
 python build_foodmap.py
+echo -n "const foods = " | cat - data/processed/foodmap.json > data/processed/foodmap_def.js
+echo "" >> data/processed/foodmap_def.js
 ```
