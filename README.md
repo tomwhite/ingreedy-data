@@ -18,7 +18,7 @@ Then run this to generate a CSV and JSON with just the food nutrient data we nee
 ```bash
 python build_foodsearch.py
 echo -n "const mccance = " | cat - data/processed/foodsearch.json > data/processed/foodsearch_def.js
-echo "" >> data/processed/foodsearch_def.js
+printf "\nexports.mccance = mccance\n" >> data/processed/foodsearch_def.js
 ```
 
 ## 2. Normalize NYT ingredient food names
@@ -40,8 +40,19 @@ See https://docs.google.com/spreadsheets/d/1wEZqp9394Bobxl4W8__99i2OcAxBt2pARnoG
 Download the "foodmap" sheet as a CSV file and save in _data/processed_
 
 ```bash
-mv "/Users/tom/Downloads/foodmap - foodmap.csv" data/processed/
+mv ~/Downloads/"foodmap - foodmap.csv" data/processed/
 python build_foodmap.py
 echo -n "const foods = " | cat - data/processed/foodmap.json > data/processed/foodmap_def.js
-echo "" >> data/processed/foodmap_def.js
+printf "\nexports.foods = foods\n" >> data/processed/foodmap_def.js
+```
+
+## 5. Build the measures file
+
+Download the "measures" sheet as a CSV file and save in _data/processed_
+
+```bash
+mv ~/Downloads/"foodmap - measures.csv" data/processed/
+python build_measures.py
+echo -n "const foodMeasures = " | cat - data/processed/measures.json > data/processed/measures_def.js
+printf "\nexports.foodMeasures = foodMeasures\n" >> data/processed/measures_def.js
 ```
