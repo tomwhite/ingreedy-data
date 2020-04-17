@@ -5,4 +5,6 @@ from mccance import load_mccance
 if __name__ == '__main__':
     foods = load_mccance()
     foods.to_csv('data/processed/McCance_minimal.csv', index=False)
-    foods.to_json('data/processed/foodsearch.json', orient='records')
+    foods.to_json('data/processed/mccance.json', orient='records')
+
+

@@ -1,4 +1,4 @@
-normalized_name,counts,food,notes,food_au,notes_au
+normalized_name,counts,food,notes,food_afcd,notes_afcd
 garlic,1802,"Garlic, raw",,"Garlic, peeled, fresh, raw",
 onion,1794,"Onions, raw",,"Onion, mature, brown skinned, peeled, raw",
 tomato,1489,"Tomatoes, standard, raw",,"Tomato, common, raw",
@@ -111,7 +111,7 @@ bay leaf,133,"Bay leaf, dried",,,missing
 pear,133,"Pears, raw, flesh and skin",,"Pear, green skin, unpeeled, raw",
 dry white wine,133,"Wine, white, dry",,"Wine, white",
 peanut oil,131,"Oil, peanut (groundnut)",,"Oil, peanut",
-red wine vinegar,130,,missing,,missing
+red wine vinegar,130,,missing,Vinegar (except balsamic vinegar),
 sea salt,129,Salt,,"Salt, table, non-iodised",
 vinegar,128,Vinegar,,Vinegar (except balsamic vinegar),
 goat cheese,127,"Cheese, goats milk, full fat, soft, white rind",,"Cheese, goat, soft",
@@ -150,7 +150,7 @@ cayenne,101,"Pepper, cayenne, ground",,,missing
 radish,100,"Radish, red, raw, flesh and skin",,"Radish, red skinned, unpeeled, raw",
 cayenne pepper,100,"Pepper, cayenne, ground",,,missing
 cherry tomato,99,"Tomatoes, cherry, raw",,"Tomato, cherry, raw",
-sherry vinegar,98,,missing,,missing
+sherry vinegar,98,,missing,Vinegar (except balsamic vinegar),
 tuna,98,"Tuna, canned in sunflower oil, drained",,"Tuna, canned in brine, drained",
 chickpea,98,"Beans, chick peas, canned, re-heated, drained",,"Chickpea, canned, drained",
 hazelnut,97,"Hazelnuts, kernel only",,"Nut, hazelnut, raw, unsalted",
@@ -208,7 +208,7 @@ coconut,80,"Coconut, flesh only, fresh",,"Coconut, fresh, mature fruit, flesh",
 peach,79,"Peaches, raw, flesh and skin",,"Peach, yellow, unpeeled, raw",
 fish stock,79,,missing,,missing
 fine sea salt,78,Salt,,"Salt, table, non-iodised",
-white wine vinegar,78,,missing,,missing
+white wine vinegar,78,,missing,Vinegar (except balsamic vinegar),
 salt and black pepper,77,Salt,treat as salt,"Salt, table, non-iodised",
 fennel seed,77,Fennel seeds,,,missing
 cheddar cheese,76,"Cheese, Cheddar, English",,"Cheese, cheddar, natural, regular fat",
@@ -283,7 +283,7 @@ fava bean,55,"Beans, broad, whole, raw",,"Bean, broad, fresh, raw",
 scallop,55,,missing,"Scallop, raw",
 orange zest,54,,missing,,missing
 crab meat,54,"Crab, white meat, purchased cooked",,"Crab, flesh, purchased steamed or boiled",
-white vinegar,54,,missing,,missing
+white vinegar,54,,missing,Vinegar (except balsamic vinegar),
 whipped cream,54,"Cream, fresh, whipping",,,missing
 chestnut,53,"Chestnuts, kernel only, raw",,"Nut, chestnut, raw, unsalted",
 yellow bell pepper,53,"Pepper, capsicum, yellow, raw",,,missing
@@ -389,7 +389,7 @@ spanish onion,38,,missing,"Onion, mature, white skinned, peeled, fresh, raw",
 winter squash,38,"Pumpkin, flesh only, raw",,"Pumpkin, peeled, fresh, raw",
 green cabbage,38,"Cabbage, green, raw",,"Cabbage, Chinese, raw",
 saffron thread,38,Saffron,,,missing
-apple cider vinegar,38,,missing,,missing
+apple cider vinegar,38,,missing,Vinegar (except balsamic vinegar),
 peanut butter,37,"Peanut butter, smooth",,"Peanut butter, smooth & crunchy, no added sugar or salt",
 linguine,37,"Pasta, white, dried, raw",,"Pasta, white wheat flour, dry",
 red cabbage,37,"Cabbage, red, raw",,"Cabbage, red, raw",
@@ -523,7 +523,7 @@ safflower oil,25,"Oil, safflower",,,missing
 superfine sugar,25,"Sugar, icing",,"Sugar, white, icing",
 lamb shank,25,"Lamb, lean only, raw, average",,"Lamb, fillet, lean, raw",
 caviar,25,"Caviare, bottled in brine, drained",,,missing
-wine vinegar,25,,missing,,missing
+wine vinegar,25,,missing,Vinegar (except balsamic vinegar),
 chili paste,25,,missing,,missing
 harissa,25,,missing,,missing
 aleppo pepper,25,,missing,,missing
