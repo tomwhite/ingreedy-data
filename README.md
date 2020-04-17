@@ -39,6 +39,19 @@ echo -n "const afcd = " | cat - data/processed/afcd.json > data/processed/afcd_d
 printf "\nmodule.exports = afcd\n" >> data/processed/afcd_def.js
 ```
 
+### US FoodData Central 
+
+Download CSVs for SR Legacy from https://fdc.nal.usda.gov/download-datasets.html and save in _data/raw_.
+
+Then run this to generate a CSV and JSON with just the food nutrient data we need:
+
+```bash
+python build_db_usfdc.py
+echo -n "const usfdc = " | cat - data/processed/usfdc.json > data/processed/usfdc_def.js
+printf "\nmodule.exports = usfdc\n" >> data/processed/usfdc_def.js
+```
+
+
 ## 2. Normalize NYT ingredient food names
 
 (Note: it would be better to do this in Javascript, so we are sure the normalization is identical.)
