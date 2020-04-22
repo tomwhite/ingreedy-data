@@ -1,6 +1,6 @@
-# Ingreedy Foodmap
+# Ingreedy Data
 
-Code for preparing a food map for Ingreedy.
+Code for preparing data for [Ingreedy](https://github.com/tomwhite/ingreedy-js).
 
 Installation:
 ```bash
